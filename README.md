@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bodducharan249-byte/queue/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/bodducharan249-byte/queue/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bodducharan249-byte/queue/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bodducharan249-byte/queue/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bodducharan249-byte/queue/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
